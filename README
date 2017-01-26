@@ -1,0 +1,6 @@
+Hello
+=====
+
+This is a simple project template that demonstrates the use of
+Autoninja to generate ninja files rather than using Automake to
+generate makefiles.
